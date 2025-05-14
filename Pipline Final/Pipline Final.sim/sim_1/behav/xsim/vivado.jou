@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon May 12 23:23:42 2025
+# Process ID         : 45296
+# Current directory  : C:/Users/Timow/Pipline Final/Pipline Final.sim/sim_1/behav/xsim
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent67460 C:\Users\Timow\Pipline Final\Pipline Final.sim\sim_1\behav\xsim\mips_pipeline_tb_behav.wdb
+# Log file           : C:/Users/Timow/Pipline Final/Pipline Final.sim/sim_1/behav/xsim/vivado.log
+# Journal file       : C:/Users/Timow/Pipline Final/Pipline Final.sim/sim_1/behav/xsim\vivado.jou
+# Running On         : E-wing
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) i7-14700HX
+# CPU Frequency      : 2304 MHz
+# CPU Physical cores : 20
+# CPU Logical cores  : 28
+# Host memory        : 31901 MB
+# Swap memory        : 32837 MB
+# Total Virtual      : 64738 MB
+# Available Virtual  : 4540 MB
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Timow\Pipline Final\Pipline Final.sim\sim_1\behav\xsim\mips_pipeline_tb_behav.wdb}
+close_sim
